@@ -1,12 +1,15 @@
 # Sales-Analysis
 
 Overview
+
 This repository contains a Tableau dashboard for a comprehensive sales analysis. The analysis dives deep into sales trends, customer behaviors, and other pivotal metrics that provide insights into a company's sales operations.
 
 Data Source
+
 The data used for this analysis originates from an e-commerce platform that sells a wide range of products. The dataset consists of information related to individual transactions, including the date and time of purchase, product details, customer details, and total price.
 
 Columns in the Dataset
+
 Invoice: Transaction identifier
 Stock Price: Product stock identifier
 Description: Product description
@@ -19,6 +22,7 @@ Total Price: Total transaction value
 Year, Month, Day, Hour: Derived columns for detailed temporal analysis
 
 Tools Used
+
 Python: Data cleaning, preprocessing, and exploratory data analysis.
 MySQL: Storing and performing initial SQL-based analysis on the dataset.
 Tableau: Building an interactive and insightful dashboard for visual data storytelling.
@@ -31,5 +35,6 @@ Usage
 The Tableau workbook (SalesAnalysis.twbx) can be downloaded and opened in Tableau for a detailed view.
 
 License & Attribution
+
 This project is under the MIT license.
 The data used for this analysis is proprietary. Proper attributions have been made wherever required.
